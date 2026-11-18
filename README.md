@@ -10,7 +10,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Laptop-Desktop-Cloud-Endpoint-Backup/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Laptop-Desktop-Cloud-Endpoint-Backup)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Laptop-Desktop-Cloud-Endpoint-Backup?style=social)](https://github.com/ishandutta2007/Awesome-Laptop-Desktop-Cloud-Endpoint-Backup/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Laptop-Desktop-Cloud-Endpoint-Backup?style=social)](https://github.com/ishandutta2007/Awesome-Laptop-Desktop-Cloud-Endpoint-Backup/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
@@ -137,9 +137,9 @@ Self-hosted, transparent, community-driven backup software providing full owners
 
 ### ⭐ Open-Source Solutions by Community Adoption
 
-*Sorted in descending order by GitHub repository star counts.*
+*Sorted in descending order by GitHub repository Stars_Counts.*
 
-| 📦 Repository | 🌟 GitHub Stars Badge | 💻 Primary Stack | 📜 Core License | 🖥️ Architecture / Primary Interface | ✨ Key Capabilities |
+| 📦 Repository | 🌟 GitHub_Stars_Badge | 💻 Primary Stack | 📜 Core License | 🖥️ Architecture / Primary Interface | ✨ Key Capabilities |
 |:---|:---:|:---|:---|:---|:---|
 | **[Rclone](https://github.com/rclone/rclone)** | [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | Go | MIT | CLI / Web UI / Mount Engine | The "Swiss Army Knife" of cloud sync; supports 70+ storage providers with transparent client-side encryption and caching |
 | **[Restic](https://github.com/restic/restic)** | [![Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers) | Go | BSD-2-Clause | CLI / Snapshot Engine | Content-defined deduplication, authenticated AES-256 client-side encryption, and universal cloud object storage support |
